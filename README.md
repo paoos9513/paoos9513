@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi My name is Paola Andrea Osorio Holguin 
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi My name is Paola Osorio 
 ============================================================================================================================================
 ![image](https://github.com/paoos9513/paoos9513/assets/61301128/41a27e3d-f151-441c-8518-d66a6e1c9bc1)
 
