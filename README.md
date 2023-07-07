@@ -21,32 +21,30 @@ Systems engineer with experience in web development and mobile applications. Foc
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-</p>
-
-<p align="left">
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" width="36" height="36" alt="Android Studio" /></a>
-</p>
-
-<p align="left">
+  
+<a href="https://seeklogo.com/images/K/karma-logo-B204C2D2E3-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/K/karma-logo-B204C2D2E3-seeklogo.com.png" width="36" height="36" alt="Karma" /></a>
+<a href="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png" width="36" height="36" alt="Jasmine" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" width="36" height="36" alt="Canva" /></a>
 
-<p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" target="_blank" rel="noreferrer"><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" width="36" height="36" alt="Postman" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://seeklogo.com/images/K/karma-logo-B204C2D2E3-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/K/karma-logo-B204C2D2E3-seeklogo.com.png" width="36" height="36" alt="Karma" /></a>
-<a href="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png" width="36" height="36" alt="Jasmine" /></a>
+<a href="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" width="36" height="36" alt="Azure DevOps" /></a>
+<a href="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" width="36" height="36" alt="Jira" /></a>
+<a href="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/trello_logo_icon_189227.png" width="36" height="36" alt="Trello" /></a>
 </p>
 
 ### Socials
